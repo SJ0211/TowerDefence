@@ -1,0 +1,32 @@
+1. lobby screen
+2. death screen
+3. different enemies
+4. better animation for towers
+5. more sound effects
+6. more visual effects (explosion when hit, etc)
+7. enemy animation
+8. better balance (too easy for now)
+
+
+Why this was harder to do than it looks:
+- I wrote 90% of code (all besides wayfinding algorithms and angles)
+- I drew all images (30)
+- I edited all sounds
+- detailed UI
+    - Tower available
+    - Money
+    - Health
+    - enemy Health
+    - Enemy remaining
+    - Waves
+    - FPS
+- Many sprites layered properly
+    -UI
+        - Cursor (Has 6 images)
+            - Bullets
+                - Tower top
+                    - Tower Base
+                        - Enemy/ally Base
+                            - Enemies
+                                - Walls
+                                    - Background
